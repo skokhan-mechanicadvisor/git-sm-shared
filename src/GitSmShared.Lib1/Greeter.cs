@@ -6,7 +6,7 @@ namespace GitSmShared.Lib1
     {
         public void Do()
         {
-            Console.WriteLine($"{DateTime.Now}::Hello From GitSmShared.Lib1");
+            Console.WriteLine($"{DateTime.Now}::Feature1::Hello From GitSmShared.Lib1 + Main");
         }
     }
 }
